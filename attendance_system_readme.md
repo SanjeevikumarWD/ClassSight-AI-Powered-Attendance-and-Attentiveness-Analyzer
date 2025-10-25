@@ -339,21 +339,9 @@ Attentiveness (%) = (Awake Faces / Total Faces) × (1 / Number of Frames) × 100
 
 ---
 
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-## 👥 Contributors
-
-[Add your team members here]
-
----
-
 ## 📧 Contact
 
-For questions or support, please contact: [your-email@example.com]
+For questions or support, please contact: [sanjeevikumar.de@gmail.com]
 
 ---
 
